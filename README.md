@@ -23,8 +23,8 @@ I'm a passionate undergrad exploring how technology can drive positive human imp
 
 🧠 **Featured Projects**
 
-- 🎮 [**DecadeDash**](#): A retro emulator-style game with one iconic game from every decade (1910s–2020s). Built for a hackathon with creativity and nostalgia in mind.
-- 🏠 [**House Price Predictor**](#): A machine learning project (96% accuracy!) that predicts house prices. Built as my **final project at Stanford Summer Session**.
+- 🎮 [**DecadeDash**](https://github.com/attaullahbhalli/decade-dash): A retro emulator-style game with one iconic game from every decade (1910s–2020s). Built for a hackathon with creativity and nostalgia in mind.
+- 🏠 [**UrbanWorth**](https://github.com/attaullahbhalli/urban-worth): A machine learning project (96% accuracy!) that predicts house prices. Built as my **final project at Stanford Summer Session**.
 - ⚙️ [**RISCademy**](#): An educational platform to help first-years master RISC-V Assembly—designed, developed, and deployed by our team at university.
 
 ---
