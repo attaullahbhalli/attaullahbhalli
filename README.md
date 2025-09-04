@@ -36,6 +36,7 @@ I'm a passionate undergrad exploring how technology can drive positive human imp
 ---
 
 📫 **Let’s Connect!**
+- 🌐 [Portfolio](https://aubhalli.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aubhalli/)
 - 📧 attaullahzahid8@gmail.com
 
